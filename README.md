@@ -1,20 +1,24 @@
-**Huffman Coding – Homework**
+# Huffman Coding – Homework
 
-This project implements Huffman coding, a lossless data compression algorithm.
+This project implements **Huffman coding**, a lossless data compression algorithm.
 
-What is implemented:
+## What is implemented
 
-Character frequency computation
-Huffman tree construction using a min-heap
-Extraction of Huffman codes
-Text encoding and decoding
-Universal Huffman tree based on English character frequencies
-Comparison between Huffman encoding and ASCII (8 bits per character)
+- Character frequency computation  
+- Huffman tree construction using a min-heap  
+- Extraction of Huffman codes  
+- Text encoding and decoding  
+- Universal Huffman tree based on English character frequencies  
+- Comparison between Huffman encoding and ASCII (8 bits per character)
 
-How to run:
+## How to run
 
-Open and run all cells in: huffman_homework.ipynb
+Open and run all cells in:
+huffman_homework.ipynb
 
-Course : Computer Algorithm 
-Professor : Antoine Becquet 
-Homework by : Matina RAVAN
+
+## Course Information
+
+- **Course:** Computer Algorithms  
+- **Professor:** Antoine Becquet  
+- **Homework by:** Matina Ravan
